@@ -1,2 +1,6 @@
 Conflict Test on CLI
+<<<<<<< HEAD
 Conflict Test on CLI ver2
+=======
+Conflict Test on Web
+>>>>>>> refs/remotes/main/main
