@@ -1,1 +1,2 @@
 Conflict Test on CLI
+Conflict Test on CLI ver2
